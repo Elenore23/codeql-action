@@ -33,7 +33,7 @@
     "@octokit/types": "^12.4.0",
     "@schemastore/package": "0.0.10",
     "@types/uuid": "^9.0.7",
-    "adm-zip": "^0.5.10",
+    "adm-zip": "^0.5.14",
     "check-disk-space": "^3.4.0",
     "console-log-level": "^1.4.1",
     "del": "^6.1.1",
